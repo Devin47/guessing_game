@@ -1,4 +1,5 @@
 
+
 # Hi, I'm Devin! 👋
 
 
@@ -42,4 +43,10 @@ Start the server
 ## Authors
 
 - [@Devin Thomas Jr](https://www.github.com/Devin47)
+
+
+## Support or Feedback
+
+For support, email devin@evolvingsoftware.io or follow me on GitHub @Devin47
+
 
